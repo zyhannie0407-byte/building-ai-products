@@ -32,7 +32,24 @@ An AI-assisted productivity platform that helps teachers access teaching materia
 
 ➡️ View the case study: *(Coming soon)*
 
+## 📂 Repository Structure
+
+This repository is organized into four main sections:
+
+### 🚀 Projects
+End-to-end AI product case studies, from problem discovery to solution design.
+
+### 🔍 Product Critiques
+Analyses of existing AI products, focusing on product decisions, user experience, and business trade-offs.
+
+### 📖 AI Fundamentals
+Notes and mental models that strengthen my understanding of AI technologies and product management concepts.
+
+### 🛠 Templates
+Reusable frameworks, checklists, and templates for product discovery, AI system design, and project planning.
+
 ## Connect
 
 LinkedIn Profile: https://www.linkedin.com/in/annie-yuhan-zhu
+
 Email: zyhannie0407@gmail.com
