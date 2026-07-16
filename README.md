@@ -1,43 +1,38 @@
-# 👋 Hi, I'm Yuhan
+## Turning AI capabilities into products people actually want to use.
 
-Welcome to **Building AI Products**.
+This repository showcases my journey of designing AI-powered products that solve real-world business problems.
 
-This repository documents my journey of designing AI-powered products that solve real business problems.
+Rather than focusing solely on machine learning models, each project explores the complete product lifecycle, from identifying user problems and defining product strategy to AI system design, evaluation, and iteration.
 
-Rather than focusing only on machine learning models, I focus on the entire product lifecycle, including user research, product strategy, AI system design, responsible AI, and user experience.
+## 👩‍💻 About ME
 
----
+I design AI products that simplify complex workflows, improve operational efficiency, and make AI accessible to non-technical users.
 
-## 🌟 Current Interests
+## 💡 My Product Philosophy
 
-- AI Product Management
-- Enterprise AI
-- Workflow Automation
-- Human-Centered AI
-- LLM Applications
-- AI Agents
-- Product Strategy
+I believe the best AI products don't replace people.
 
----
+They remove friction from everyday work so people can focus on what they do best.
 
-# 🚀 Featured Projects
+Every project in this repository begins with a real user problem and explores how AI can create meaningful value through thoughtful product design.
 
-## 1. Teacher Copilot *(In Progress)*
+## 🚀 Featured Projects
 
-An AI-assisted productivity platform that helps teachers quickly access teaching materials and administrative resources across multiple systems.
+### 📚 Teacher Copilot *(In Progress)*
 
-**Skills**
+An AI-assisted productivity platform that helps teachers access teaching materials and administrative resources from multiple disconnected systems through a single intelligent workspace.
 
-- Product Discovery
-- User Research
-- UX Design
-- AI Search
-- Responsible AI
-- Privacy
-- Product Strategy
+**Highlights**
+- Product Discovery & User Research
+- Task Analysis & User Journey
+- AI-Powered Search
+- Responsible AI (Privacy, Transparency & Fairness)
+- Product Requirements (PRD)
+- MVP & Future Roadmap
 
----
+➡️ View the case study: *(Coming soon)*
 
-More projects coming soon...
+## Connect
 
-Thank you for visiting!
+LinkedIn Profile: https://www.linkedin.com/in/annie-yuhan-zhu
+Email: zyhannie0407@gmail.com
