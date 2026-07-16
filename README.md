@@ -4,7 +4,7 @@ This repository showcases my journey of designing AI-powered products that solve
 
 Rather than focusing solely on machine learning models, each project explores the complete product lifecycle, from identifying user problems and defining product strategy to AI system design, evaluation, and iteration.
 
-## 👩‍💻 About ME
+## 👩‍💻 About Me
 
 I design AI products that simplify complex workflows, improve operational efficiency, and make AI accessible to non-technical users.
 
